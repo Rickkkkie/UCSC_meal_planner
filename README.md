@@ -1,3 +1,3 @@
 # UCSC_meal_planner
-2020 cruz hacks project 
+CruzHacks2020's project 
 by Rickie, Peter, Jeremy, Simon
